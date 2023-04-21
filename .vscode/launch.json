@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Game2DCleanProf",
+            "request": "launch",
+            "mainClass": "Game2DCleanProf",
+            "projectName": "Game - Updated 20.04.2023_6e25db82"
+        },
+        {
+            "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "Task3",
+            "projectName": "Game - Updated 24.03.2023_bf1ddf9d",
+            "vmArgs": "--module-path lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "SwipeCardTask",
+            "request": "launch",
+            "mainClass": "SwipeCardTask",
+            "projectName": "Game - Updated 24.03.2023_bf1ddf9d",
+            "vmArgs": "--module-path lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "Task2",
+            "request": "launch",
+            "mainClass": "Task2",
+            "projectName": "Game - Updated 24.03.2023_bf1ddf9d",
+            "vmArgs": "--module-path lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "Task1",
+            "projectName": "Game - Updated 24.03.2023_bf1ddf9d",
+            "vmArgs": "--module-path lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "Game2DClean",
+            "request": "launch",
+            "mainClass": "Game2DClean",
+            "projectName": "Game - Updated 24.03.2023_bf1ddf9d",
+            "vmArgs": "--module-path lib --add-modules javafx.controls"
+        },
+        {
+            "type": "java",
+            "name": "Game2DCleanProf",
+            "request": "launch",
+            "mainClass": "Game2DCleanProf",
+            "projectName": "Game - Updated 24.03.2023_bf1ddf9d",
+            "vmArgs": "--module-path lib --add-modules javafx.controls"
+        }
+    ]
+}
